@@ -1,0 +1,7 @@
+.rag_env
+venv/
+.venv/
+__pycache__/
+examplegreeting.py
+query_embedding.txt
+.env

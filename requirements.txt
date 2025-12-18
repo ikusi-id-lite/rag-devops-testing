@@ -1,0 +1,16 @@
+psycopg2-binary
+python-dotenv
+openai
+qdrant-client
+sqlglot
+pandas
+tabulate
+pypdf
+langchain
+openai-agents
+asyncio
+redis
+fastapi
+uvicorn
+fastmcp[cli]
+fastmcp

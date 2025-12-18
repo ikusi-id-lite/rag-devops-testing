@@ -1,0 +1,17 @@
+{"event": "agent_start", "agent_name": "Agente orquestador de Triage y generador de contexto", "timestamp": 48296.688158589}
+{"event": "agent_start", "agent_name": "Agente de respuesta por contexto", "timestamp": 48310.847538907}
+{"event": "agent_end", "agent_name": "Agente de respuesta por contexto", "timestamp": 48317.49152157}
+{"event": "agent_start", "agent_name": "Agente orquestador de Triage y generador de contexto", "timestamp": 48349.794359989}
+{"event": "agent_start", "agent_name": "Agente de respuesta por contexto", "timestamp": 48354.900770985}
+{"event": "agent_end", "agent_name": "Agente de respuesta por contexto", "timestamp": 48359.442677233}
+{"event": "agent_start", "agent_name": "Agente orquestador de Triage y generador de contexto", "timestamp": 48452.746000545}
+{"event": "agent_start", "agent_name": "Agente de respuesta por contexto", "timestamp": 48457.982236868}
+{"event": "agent_end", "agent_name": "Agente de respuesta por contexto", "timestamp": 48463.715678832}
+{"event": "agent_start", "agent_name": "Agente orquestador de Triage y generador de contexto", "timestamp": 48554.936471081}
+{"event": "agent_start", "agent_name": "Agente de respuesta por contexto", "timestamp": 48561.492119602}
+{"event": "agent_end", "agent_name": "Agente de respuesta por contexto", "timestamp": 48571.997482495}
+{"event": "agent_start", "agent_name": "Agente orquestador de Triage y generador de contexto", "timestamp": 25360.955410451}
+{"event": "agent_start", "agent_name": "Agente de Generacion de SQL", "timestamp": 25367.200848389}
+{"event": "agent_start", "agent_name": "Agente de ejecucion de Bases de Datos", "timestamp": 25373.132532284}
+{"event": "agent_start", "agent_name": "Agente de Presentaci\u00f3n de Resultados", "timestamp": 25376.451452648}
+{"event": "agent_end", "agent_name": "Agente de Presentaci\u00f3n de Resultados", "timestamp": 25381.375826565}
