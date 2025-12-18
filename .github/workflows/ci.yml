@@ -12,6 +12,7 @@ permissions:
 jobs:
   call-workflow-passing-data:
     uses: ikusi-id-lite/devops-resources/.github/workflows/CI-python.yml@main
+    secrets: inherit
     with:
       fetch-depth: 1
       expose-method: 'uvicorn'
