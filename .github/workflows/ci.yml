@@ -1,0 +1,22 @@
+---
+name: CI
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  call-workflow-passing-data:
+    uses: ikusi-id-lite/devops-resources/.github/workflows/CI-python.yml@main
+    with:
+      fetch-depth: 1
+      python_version: '3.11'
+      config-json: |
+        {
+          "environment": "staging",
+          "version": "1.2.3"
+        }
