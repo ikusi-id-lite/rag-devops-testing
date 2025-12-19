@@ -29,6 +29,8 @@ from agents.mcp import MCPServerSse
 
 from agents import Runner
 
+
+#REDIS
 REDIS_URL = os.getenv("REDIS_URL")
 #SESSION_ID = "rag:user:{ID_USUARIO}:conversation:{ID_CONVERSACION}:history"
 #SESSION_ID = "rag:user:1:conversation:1:history"
